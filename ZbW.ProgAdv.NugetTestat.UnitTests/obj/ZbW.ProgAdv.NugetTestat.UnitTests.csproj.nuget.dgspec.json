@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pkeis\\source\\repos\\ZbW.ProgAdv.NugetTestat.UnitTests\\ZbW.ProgAdv.NugetTestat.UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pkeis\\source\\repos\\ZbW.ProgAdv.NugetTestat.UnitTests\\ZbW.ProgAdv.NugetTestat.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pkeis\\source\\repos\\ZbW.ProgAdv.NugetTestat.UnitTests\\ZbW.ProgAdv.NugetTestat.UnitTests.csproj",
+        "projectName": "ZbW.ProgAdv.NugetTestat.UnitTests",
+        "projectPath": "C:\\Users\\pkeis\\source\\repos\\ZbW.ProgAdv.NugetTestat.UnitTests\\ZbW.ProgAdv.NugetTestat.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\pkeis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pkeis\\source\\repos\\ZbW.ProgAdv.NugetTestat.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pkeis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\pkeis\\source\\repos\\ZbW.ProgrAdv.NugetTestat\\ZbW.ProgrAdv.NugetTestat.csproj": {
+                "projectPath": "C:\\Users\\pkeis\\source\\repos\\ZbW.ProgrAdv.NugetTestat\\ZbW.ProgrAdv.NugetTestat.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.0.0-beta4, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.0.0-beta4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.3.0-preview-20190808-03, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\pkeis\\source\\repos\\ZbW.ProgrAdv.NugetTestat\\ZbW.ProgrAdv.NugetTestat.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pkeis\\source\\repos\\ZbW.ProgrAdv.NugetTestat\\ZbW.ProgrAdv.NugetTestat.csproj",
+        "projectName": "ZbW.ProgrAdv.NugetTestat",
+        "projectPath": "C:\\Users\\pkeis\\source\\repos\\ZbW.ProgrAdv.NugetTestat\\ZbW.ProgrAdv.NugetTestat.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    }
+  }
+}
